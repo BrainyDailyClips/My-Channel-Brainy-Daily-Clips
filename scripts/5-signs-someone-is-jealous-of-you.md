@@ -2,7 +2,7 @@
 
 - **Mode:** viral-script-engineer, action-first / raw-human voice, **secular register**
 - **Angle (new mechanism):** every sign shows up in how they react to **your good news**, in the first 60 seconds
-- **Length:** ~1,550 words, about 10:20 at 150 wpm / 11:55 at 130 wpm
+- **Length:** ~1,600 words, about 10:45 at 150 wpm / 12:20 at 130 wpm
 - **List order:** least expected first, most validating/heaviest last (escalating stakes)
 
 ---
